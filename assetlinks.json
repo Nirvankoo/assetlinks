@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nirv.proj1",
+      "sha256_cert_fingerprints": ["65:44:48:eb:4a:78:39:e4:04:ba:95:90:71:8b:02:9e:f7:60:e4:77:22:a5:9d:99:11:fb:aa:21:50:50:2b:be"]
+    }
+  }
+]
